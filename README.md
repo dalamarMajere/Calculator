@@ -1,2 +1,3 @@
 # Calculator
-![Screenshot_1](https://github.com/dalamarMajere/Calculator/assets/54211263/8d37842d-14e4-4d92-ace0-0505ea696869)
+
+![ezgif-5-fcf75af547](https://github.com/dalamarMajere/Calculator/assets/54211263/104a54ff-44f2-4556-9e62-0465239c2289)
